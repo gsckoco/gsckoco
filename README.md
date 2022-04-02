@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello, I'm Ben
+
+I do lots of programming
+
+![gsckoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsckoco&show_icons=true&theme=radical)
 
 <!--
 **gsckoco/gsckoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
